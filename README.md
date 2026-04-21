@@ -18,4 +18,7 @@ While the pygame framework was fun to work with and gave us alot of control in t
 While many of these limitations wouldnt have prevented development all together, being under an additional 48 hour time crunch cause these roadblocks to become almost unavoidable. 
 
 # Whats Next
-We plan to slowly begin on porting the game to a proper game engine (Godot), and creating many of the dynamic assets we wished to use on the jam. With the time limit of the jam no longer affecting us, we might consider removing the hard cap on gameplay time, and presenting some form of endless, or repeatable mode.
+We plan to slowly begin on porting the game to a proper game engine (Godot), and creating many of the dynamic assets we wished to use on the jam. With the time limit of the jam no longer affecting us, we might consider removing the hard cap on gameplay time, and presenting some form of endless, or repeatable mode. Also there will be a terminal text-based spin-off availiable for one of my class projects.
+
+# Note for Archive
+All future plans for this game will be implemented in other repositories by other people. refer to (JEvan234/Repos)[https://github.com/JEvan234?tab=repositories] to see any future forks or spin-offs
